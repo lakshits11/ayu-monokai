@@ -1,0 +1,30 @@
+{
+  "name": "ayu-monokai",
+  "displayName": "Ayu Monokai",
+  "description": "A perfect blend of Ayu Dark and Monokai for sigmas",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "author": {
+    "name": "Lakshit Somani",
+    "email": "lakshits11@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshits11/ayu-monokai.git"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Monokai-color-theme.json"
+      }
+    ]
+  }
+}
