@@ -1,5 +1,5 @@
 <div align="center" style="display:flex;flex-direction:column;">
-    <img src="banner.png" style="height:300px;padding:10px" />
+    <img src="banner.png" style="padding:10px" />
     <br/>
     <p>A perfect blend of Ayu Dark and Monokai for sigmas</p>
     <br/>
